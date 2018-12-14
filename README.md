@@ -1,3 +1,7 @@
+blog 完全基于项目DjangoBlog，仅作为个人使用。
+项目源码地址：https://github.com/liangliangyy/DjangoBlog
+下面是项目源码介绍：
+
 # DjangoBlog
 
 基于`python3.6`和`Django2.1`的博客。   
